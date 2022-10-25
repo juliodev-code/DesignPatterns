@@ -6,12 +6,12 @@
 
     <parent>
         <groupId>org.juliodev.designpatterns</groupId>
-        <artifactId>BehavioralPatterns</artifactId>
+        <artifactId>StructuralPatterns</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>org.juliodev.designpatterns.behavioral</groupId>
-    <artifactId>StrategyPattern</artifactId>
+    <groupId>org.juliodev.designpatterns.structural</groupId>
+    <artifactId>AdapterPattern</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
